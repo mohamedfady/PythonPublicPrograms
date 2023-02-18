@@ -44,8 +44,8 @@ The script also contains the following functions:
 - `check_single_proxy(proxy)`: This function takes a single argument, a string that represents a proxy in the format `PROXYTYPE:IP:PORT`. It creates an instance of the `ProxyConnector` class and checks whether the proxy is a good proxy or a bad
 - `check_proxies_list()`: This function checks each proxy in the PROXIES_LIST dictionary and saves the good proxies to a CSV file.
 - `main()`: This function is the entry point of the script. It initializes some global variables and executes the functions in the following order: create_folder(), get_main_websites(), get_proxies_list(), check_proxies_list(), and display_results().
-###Usage
-To use the script, simply run the proxy_checker.py file using python proxy_checker.py. The script will then download the proxy lists, check the proxies, and save the good proxies to a CSV file.
+### Usage
+- To use the script, simply run the proxy_checker.py file using python proxy_checker.py. The script will then download the proxy lists, check the proxies, and save the good proxies to a CSV file.
 
-###Conclusion
-This script is a useful tool for anyone who needs to scrape proxies and check them to determine if they are good or bad proxies. It uses a simple yet effective approach that can be easily customized to suit the user's needs.
+### Conclusion
+- This script is a useful tool for anyone who needs to scrape proxies and check them to determine if they are good or bad proxies. It uses a simple yet effective approach that can be easily customized to suit the user's needs.
