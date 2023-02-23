@@ -1,5 +1,5 @@
 # PythonPublicPrograms
  
-- proxyPrograms(https://github.com/hassan4u2/PythonPublicPrograms/tree/main/ProxyControlling)
-- formAssemblySender(https://github.com/hassan4u2/PythonPublicPrograms/tree/main/fAssemblySender)
-- textSorter&Splitter(https://github.com/hassan4u2/PythonPublicPrograms/blob/main/hulkDataFilter)
+- ProxyPrograms(https://github.com/hassan4u2/PythonPublicPrograms/tree/main/ProxyControlling)
+- Emailing (https://github.com/hassan4u2/PythonPublicPrograms/tree/main/Emailing/fAssemblySender)
+- TextProcessing (https://github.com/hassan4u2/PythonPublicPrograms/blob/main/TextProcessing)
