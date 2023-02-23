@@ -1,0 +1,12 @@
+{   
+    "Threads" : 30,
+    "SendDublicatedEmails" : "True1",
+    "UpdateFormsEach" : 30,
+    "MaxEmailRetries" : 10,
+    "MaxDataErrorsCount" : 3,
+    "TimeBetweenRequests" : 50,
+    "TelegramToken" : "0000000000:AAE06oY3-7UQRuTBHNFOTHumXLzyoZpzfEw",
+    "TelegramChatID" : "-833072555",
+    "SendTelegramData": "True",
+    "UseProxies": "False"
+  }
